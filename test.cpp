@@ -3,6 +3,6 @@
 
 int main (void)
 {
-	printf("You can get your scores!!");
+	printf("You can accomplish your goal!!");
 	return 0;
 }
